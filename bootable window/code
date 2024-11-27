@@ -1,0 +1,1 @@
+sudo woeusb --device ~/Downloads/win10.iso /dev/sdb --tgt-fs NTFS
